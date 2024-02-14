@@ -23,6 +23,35 @@ Distanza = 2*Raggio*math.asin(sqrt(math.sin(0.5*( ϕ2 - ϕ1 ))**2 + math.cos(ϕ1
 
 print (Distanza)
 
+# quarto esercizio
+
+i1 = 10
+i2 = 24
+s1 = "Roma"
+s2 = "Milano"
+f1 = 362.42
+f2 = 352.76
+b1 = True
+b2 = False
+
+print(i1+i2)
+print(s1+s2)
+print(f1+f2)
+print(b1+b2)
+print(i1+s1)
+print(s1+i2)
+print(i1+s2)
+print(f2+i2)
+print(i1+b1)
+print(f1+b1)
+print(s1+b1)
+print(i1+b1)
+print(b1+s1)
+print(b1+f1)
+
+
+
+
 
 
 
