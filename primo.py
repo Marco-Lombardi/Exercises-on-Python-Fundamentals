@@ -49,6 +49,30 @@ print(i1+b1)
 print(b1+s1)
 print(b1+f1)
 
+#quinto esercizio
+
+# In una stanza entrano, uno dopo l'altro, 10 persone, rispettivamente:
+# antonio, marco, andrea, luigi, tony, bruno, laura, anita, annarita, lucia
+# le prime due vanno via dopo un pochino di tempo ma entrano altre tre persone
+# john, alice, mary
+# altre due vanno via, sempre in ordine di ingresso (primo entrato, primo a uscire)
+# stampare l'elenco delle persone presenti
+
+Stanza = ["antonio" "marco" "andre" "luigi" "tony" "bruno" "laura" "anita" "annarita" "lucia"]
+
+Stanza.remove("antonio" "marco")
+
+Stanza.append("john" "alice" "mary")
+
+Stanza.remove("andrea" "luigi")
+
+print(Stanza)
+
+Stanza.sort
+
+print(Stanza)
+
+
 
 
 
